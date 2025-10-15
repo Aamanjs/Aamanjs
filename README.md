@@ -1,5 +1,4 @@
-[![MasterHead]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fakshaykanherkar7%2Fakshaykanherkar7&psig=AOvVaw32_Bm1DR5tb_nBpartkW8A&ust=1760628136936000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjugozBppADFQAAAAAdAAAAABAE](https://Aamanjs.io)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fakshaykanherkar7%2Fakshaykanherkar7&psig=AOvVaw32_Bm1DR5tb_nBpartkW8A&ust=1760628136936000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjugozBppADFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Aaman Sayyad</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
